@@ -1,0 +1,8 @@
+{ "name":"test",
+  "symbol":"Tsol",
+  "description":"Ichi tuto",
+  "image":" http://127.0.0.1:8080/ipfs/QmWk3hQw19ij6XC8UbHcahpp1i7FeaHNZjiK4c3AezJweE",
+  "websites":[{"label":"Website","url":"https://ichi.zeb"}],
+  "socials":[{"url":"https://x.com/ichi","type":"twitter"},
+  {"url":"https://t.me/ichi","type":"telegram"}]
+}
